@@ -43,7 +43,7 @@ export const partnersData = [
     icon: `<img src="/imagenes/lacolada-white.webp"
                 alt="La Colada"
                 class="mx-auto h-auto w-32 py-3 sm:mx-0 lg:w-40 lg:py-5"
-                width="240" height="100"
+                width="240" height="140"
                 loading="lazy" decoding="async" />`,
     name: "La Colada",
     href: "#",
